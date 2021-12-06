@@ -1,6 +1,9 @@
-### Olá, eu sou o Rafael Lima, desenvedor web.
+### Olá, eu sou o Rafael Lima.
 
-- 👨‍💻 Estudando HTML/CSS/JavaScript
+- :running_man: Em busca de um caminho profissional como dev
+- :man_student: Faculdade de Sistemas para Internet na Uninove
+- :brain: Cursos de formação na plataforma Alura
+- :man_technologist: Estudando HTML/CSS/JavaScript
 
 
 <div align="center">
