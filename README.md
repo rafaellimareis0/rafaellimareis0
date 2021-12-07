@@ -2,7 +2,7 @@
 
 - :running_man: Em busca de um caminho profissional como dev
 - :man_student: Faculdade de Sistemas para Internet na Uninove
-- :brain: Cursos de formação na plataforma Alura
+- :brain: Cursos de especialização Alura
 - :man_technologist: Estudando HTML/CSS/JavaScript
 
 
