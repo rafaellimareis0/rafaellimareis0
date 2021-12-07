@@ -1,4 +1,4 @@
-### Olá, eu sou o Rafael Lima.
+### Olá, eu sou o Rafael.
 
 - :running_man: Em busca de um caminho profissional como dev
 - :man_student: Faculdade de Sistemas para Internet na Uninove
