@@ -1,10 +1,18 @@
+# pt-br
 ### Olá, eu sou o Rafael.
 
 - :running_man: Em busca de um caminho profissional como dev
 - :man_student: Faculdade de Sistemas para Internet na Uninove
-- :brain: Cursos de especialização Alura
-- :man_technologist: Estudando JavaScript e Java
+- :brain: Cursos de especialização na Alura
+- :man_technologist: Foco em Java e JavaScript
 
+# eng
+### Hi, I'm Rafael.
+
+- :running_man: Looking for a professional path as developer
+- :man_student: Studying Internet Systems at Uninove
+- :brain: Specialization courses at Alura
+- :man_technologist: Focus on Java and JavaScript
 
 <div align="center">
   <a href="https://github.com/rafaellimareis0">
