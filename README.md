@@ -1,18 +1,16 @@
 # pt-br
 ### Olá, eu sou o Rafael.
 
-- :running_man: Em busca de um caminho profissional como dev
+- :running_man: Salesforce Developer at IBM
 - :man_student: Faculdade de Sistemas para Internet na Uninove
 - :brain: Cursos de especialização na Alura
-- :man_technologist: Foco em Java e JavaScript
 
 # eng
 ### Hi, I'm Rafael.
 
-- :running_man: Looking for a professional path as developer
+- :running_man: Salesforce Developer at IBM
 - :man_student: Studying Internet Systems at Uninove
 - :brain: Specialization courses at Alura
-- :man_technologist: Focus on Java and JavaScript
 
 <div align="center">
   <a href="https://github.com/rlreisdev">
@@ -30,7 +28,7 @@
    ##
   
   <div>
-      <a href="https://www.linkedin.com/in/rlreisdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/rafaellimareis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href = "mailto:rafaellimareis0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
