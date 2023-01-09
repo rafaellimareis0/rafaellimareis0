@@ -1,14 +1,14 @@
 # pt-br
 ### Olá, eu sou o Rafael.
 
-- :running_man: Salesforce Consultant at IBM
+- :running_man: Salesforce Admin at IBM
 - :man_student: Faculdade de Sistemas para Internet na Uninove
 - :brain: Cursos de especialização na Alura
 
 # eng
 ### Hi, I'm Rafael.
 
-- :running_man: Salesforce Consultant at IBM
+- :running_man: Salesforce Admin at IBM
 - :man_student: Studying Internet Systems at Uninove
 - :brain: Specialization courses at Alura
 
