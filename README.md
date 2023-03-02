@@ -1,16 +1,18 @@
 # pt-br
-### Olá, eu sou o Rafael.
+### Oi, meu nome é Rafael.
 
-- :running_man: Salesforce Admin at IBM
+- :running_man: Salesforce Developer at IBM
 - :man_student: Faculdade de Sistemas para Internet na Uninove
-- :brain: Cursos de especialização na Alura
+- :brain: Cursos de especialização na Alura, Trailhead Ranger
+- 📘 2x Salesforce Certified -  Salesforce Administrator Certified e Salesforce Associate Certified
 
 # eng
 ### Hi, I'm Rafael.
 
 - :running_man: Salesforce Admin at IBM
 - :man_student: Studying Internet Systems at Uninove
-- :brain: Specialization courses at Alura
+- :brain: Specialization courses at Alura, Trailhead Ranger
+- 📘 2x Salesforce Certified -  Salesforce Administrator Certified and Salesforce Associate Certified
 
 <div align="center">
   <a href="https://github.com/rafaellimareis0">
