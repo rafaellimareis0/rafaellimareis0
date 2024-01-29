@@ -11,7 +11,7 @@
 
 - :running_man: Salesforce Developer at IBM;
 - :man_student: Graduated Internet Systems at Uninove;
-- :brain: Specialization courses, Trailhead Double Ranger;
+- :brain: Specialization courses Javascript Full-stack and Salesforce Trailhead Double Ranger;
 - 📘 2x Salesforce Certified -  Salesforce Administrator Certified and Salesforce Associate Certified;
 
 <div align="center">
