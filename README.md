@@ -3,7 +3,7 @@
 
 - :running_man: Desenvolvedor Salesforce na IBM;
 - :man_student: Formação em Sistemas para Internet na Uninove;
-- :brain: Cursos de especialização na Alura, Trailhead Ranger Ranger;
+- :brain: Cursos de especialização Javascript Full-stack e Salesforce Trailhead Double Ranger;
 - 📘 2x Salesforce Certified -  Salesforce Administrator Certified e Salesforce Associate Certified;
 
 # eng
