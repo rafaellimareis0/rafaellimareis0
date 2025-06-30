@@ -1,9 +1,9 @@
 # pt-br
 ### Olá, meu nome é Rafael.
 
-- :running_man: Desenvolvedor Salesforce na IBM;
+- :running_man: Consultor/Administrador/Analista Salesforce na Capgemini;
 - :man_student: Formado em Sistemas para Internet na Uninove;
-- :brain: Cursos de especialização Javascript Full-stack/Lightning Web Components - Salesforce Trailhead Double Ranger;
+- :brain: Cursos de especialização Javascript Full-stack/Lightning Web Components - Salesforce Trailhead Tripple Ranger;
 - 📘 3x Salesforce Certified:
                               Salesforce Administrator Certified;
                               Salesforce AI Associate Certified;
@@ -12,9 +12,9 @@
 # eng
 ### Hello, I'm Rafael.
 
-- :running_man: Salesforce Developer at IBM;
+- :running_man: Salesforce Consultant/Admin/Analyst at Capgemini;
 - :man_student: Graduated Internet Systems at Uninove;
-- :brain: Specialization courses Javascript Full-stack/Lightning Web Components - Salesforce Trailhead Double Ranger;
+- :brain: Specialization courses Javascript Full-stack/Lightning Web Components - Salesforce Trailhead Tripple Ranger;
 - 📘 3x Salesforce Certified:
                               Salesforce Administrator Certified;
                               Salesforce AI Associate Certified;
