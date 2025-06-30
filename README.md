@@ -4,10 +4,13 @@
 - :running_man: Consultor/Administrador/Analista Salesforce na Capgemini;
 - :man_student: Formado em Sistemas para Internet na Uninove;
 - :brain: Cursos de especialização Javascript Full-stack/Lightning Web Components - Salesforce Trailhead Tripple Ranger;
-- 📘 3x Salesforce Certified:
-                              Salesforce Administrator Certified;
-                              Salesforce AI Associate Certified;
-                              Salesforce Associate Certified;
+- 📘 6x Salesforce Certified:
+                              Salesforce Certified Administrator;
+                              Salesforce Certified CRM Analytics and Einstein Discovery Consultant
+                              Salesforce Certified Data Cloud Consultant;
+                              Salesforce Certified AI Associate;
+                              Salesforce Certified Agentforce Specialist;
+                              Salesforce Certified Associate;
 
 # eng
 ### Hello, I'm Rafael.
@@ -15,10 +18,13 @@
 - :running_man: Salesforce Consultant/Admin/Analyst at Capgemini;
 - :man_student: Graduated Internet Systems at Uninove;
 - :brain: Specialization courses Javascript Full-stack/Lightning Web Components - Salesforce Trailhead Tripple Ranger;
-- 📘 3x Salesforce Certified:
-                              Salesforce Administrator Certified;
-                              Salesforce AI Associate Certified;
-                              Salesforce Associate Certified;
+- 📘 6x Salesforce Certified:
+                              Salesforce Certified Administrator;
+                              Salesforce Certified CRM Analytics and Einstein Discovery Consultant
+                              Salesforce Certified Data Cloud Consultant;
+                              Salesforce Certified AI Associate;
+                              Salesforce Certified Agentforce Specialist;
+                              Salesforce Certified Associate;
 
 <div align="center">
   <a href="https://github.com/rafaellimareis0">
